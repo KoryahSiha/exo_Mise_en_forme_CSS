@@ -57,14 +57,51 @@ body{
     background-color: gold;
 }
 .colonne_contenu {
-    background-color: lightgreen;
+    background-color: rgb(144, 163, 238);
+    padding: 40px;
 }
 .pieddepage{
     background-color: DodgerBlue;
     color: white;
     text-align: center;
+    line-height: 50px;
 }
 
+h1 {
+    background-color: rgb(170, 187, 255);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-bottom: 5px solid rgb(120, 135, 197);
+}
 
+h2 {
+    color: rgb(122, 122, 122);
+    font-size: 1.5rem;
+    margin: 20px;
+    font-variant: small-caps;
+}
 
+strong {
+    color: rgb(59, 103, 153);
+    font-weight: normal;
+}
 
+em {
+    color: rgb(231, 255, 242);
+}
+
+.introduction {
+    font-style: italic;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+:link {
+    font-weight: bold;
+}
+
+a:hover {
+    color: wheat;
+    text-decoration: none;
+}
