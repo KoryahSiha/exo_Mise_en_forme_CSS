@@ -35,8 +35,21 @@ body{
 }
 
 .entete{
-    background-color: hotpink;
+    background-color: rgb(27, 101, 141);
+    padding: 10px;
 }
+
+.titre_site {
+    font-size: 2rem;
+    color: rgb(127, 196, 245);
+}
+
+.slogan {
+    font-size: 1.2rem;
+    color: white;
+    font-style: italic;
+}
+
 .colonnes {
     background-color: deepskyblue;
 }
