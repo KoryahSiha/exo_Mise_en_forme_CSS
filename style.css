@@ -29,9 +29,7 @@ body{
 	/* Pour avoir le choix des couleurs https://htmlcolorcodes.com/fr/noms-de-couleur/ */
     background-color: mediumpurple; 
 }
-.page {
-	background-color: red; 
-}
+
 .entete{
     background-color: hotpink;
 }
