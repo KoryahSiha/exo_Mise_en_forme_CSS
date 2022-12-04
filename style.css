@@ -105,3 +105,30 @@ a:hover {
     color: wheat;
     text-decoration: none;
 }
+
+.colonnes, .colonne_menu {
+    background-color: rgb(35, 128, 177);
+}
+
+.colonne_menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+.colonne_menu li {
+    list-style-type: none;
+    background-color: rgb(231, 255, 242);
+    margin: 5px;
+    text-align: center;
+}
+
+.colonne_menu li:hover {
+    background-color: rgb(224, 146, 44);
+}
+
+.colonne_menu a {
+    text-decoration: none;
+    color: rgb(122, 122, 122);
+    display: block;
+    padding: 5px;
+}
